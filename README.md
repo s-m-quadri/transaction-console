@@ -1,26 +1,27 @@
-# Transaction Console
+<pre align="center">
+                   **                  
+                ** ** **               
+             ***        ***            
+          ***              ***         
+       ***                    ***      
+    ***                          ***   
+ *** ** ************************ ** ***
+                                       
+    ****    ****         ****   ****   
+     **      **           **     **    
+     **      **           **     **    
+     **      **           **     **    
+     **      **           **     **    
+     **      **           **     **    
+    ****    ****         ****   ****   
+                                       
+   **********************************  
+ **************************************
+</pre>
+<h1 align="center">TRANSACTION CONSOLE</h1>
+<p align="center">"Transaction Console" is a command-line interface (CLI) application developed entirely in C that simulates a transaction process similar to that of an ATM. It provides users with a console-based environment to perform various transaction-related operations, as part of a project conducted by the Deogiri Institute of Engineering and Management Studies for the "Design and Analysis of Algorithms" subject.</p>
 
-The "Transaction Console" is a command-line interface (CLI) application developed entirely in C that simulates a transaction process similar to that of an ATM. It provides users with a console-based environment to perform various transaction-related operations, as part of a project conducted by the Deogiri Institute of Engineering and Management Studies for the "Design and Analysis of Algorithms" subject.
-
-
-                       **                         
-                    ** ** **                      
-                 ***        ***                   
-              ***              ***                
-           ***                    ***             
-        ***                          ***          
-     *** ** ************************ ** ***       
-                                                  
-        ****    ****         ****   ****          
-         **      **           **     **           
-         **      **           **     **           
-         **      **           **     **           
-         **      **           **     **           
-         **      **           **     **        
-        ****    ****         ****   ****          
-                                                  
-       **********************************         
-     **************************************       
+<br>
 
 ## Table of Contents
 
@@ -29,6 +30,8 @@ The "Transaction Console" is a command-line interface (CLI) application develope
 3. [Usage](#3-usage)
 4. [Documentation](#4-documentation)
 5. [Walk Through](#5-walk-through)
+
+<br>
 
 ## 1. Features
 
@@ -54,6 +57,8 @@ Overall, the "Transaction Console" offers a user-friendly and efficient environm
 
 Happy transacting with the "Transaction Console"!
 
+<br>
+
 ## 2. Getting Started
 
 &crarr; [back to index](#table-of-contents)
@@ -75,6 +80,8 @@ To get started with the **Transaction Console**, follow these steps:
 7. The console interface will appear, ready for you to enter commands and perform transaction-related operations.
 
 8. If you ever need help or want to learn more about the available commands and their usage, simply type the command `help` in the console. The application will provide you with detailed information about each command and guide you through the process.
+
+<br>
 
 ## 3. Usage
 
@@ -101,6 +108,8 @@ can do (optionally) memory check using
 or (optionally) time check using
 
     time ./Linux64_Transaction_Console.out 
+
+<br>
 
 ## 4. Documentation
 
@@ -159,6 +168,7 @@ or (optionally) time check using
 
 Please note that all commands should be entered exactly as shown, including any required arguments and in the correct order. Refer to the command descriptions above for proper usage.
 
+<br>
 
 ## 5. Walk Through
 
@@ -184,5 +194,6 @@ Please note that all commands should be entered exactly as shown, including any 
 
 ![TC-Error-Handling.png](img/TC-Error-Handling.png)
 
+<br>
 
-## Thanks for visiting
+## Happy transacting with the "Transaction Console"!
